@@ -26,6 +26,8 @@ Email at ifedayoprince@gmail.com
 WhatsApp at +2349039630470
 Facebook at Ifedayo Prince Oni. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ifedayoprince)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 📖 My Skillset: 
 . ReactJS
 . Ionic Framework 
