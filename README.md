@@ -24,6 +24,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldkelechi11&show_icons=true&locale=en&layout=compact" alt="ifedayo prince" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifedayoprince&show_icons=true&locale=en&layout=compact" alt="ifedayo prince" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifedayoprince&show_icons=true&locale=en" alt="ifedayo prince" /></p>
