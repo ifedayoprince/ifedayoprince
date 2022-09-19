@@ -1,36 +1,29 @@
-### Hi there 👋
+# <h1 align="center">Hi 👋, I'm Ifedayo Prince Oni</h1>
+<h3 align="center">A passionate Hybrid Application developer from Nigeria</h3>
 
-My name if Ifedayo Prince Oni, 
-I'm an Hybrid App Developer. I develop cross platform apps and PWA. 
-I'm also a seasoned Ionic Developer 😛😛. 
+- 🔭 I’m currently working on **Qual and Ventri**
 
+- 🌱 I’m currently learning **Advanced Firebase Integration**
 
-- 🔭 I’m currently working on #### A quality video sharing platform called Qual. 
+- 👯 I’m looking to collaborate with **ReactJS Developers**
 
-- 🌱 I’m currently learning #### UI/UX Design and Advanced Firebase Integrations. 
+- 🤝 I’m looking for help with **Fund generation for Qual**
 
-- 👯 I’m looking to collaborate with #### developers on Qual (mainly React Developers). 
+- 💬 Ask me about **Java, JavaScript, Ionic**
 
-- 🤔 I’m looking for help with #### Generating funds for Qual. 
+- 📫 How to reach me **ifedayoprince@gmail.com**
 
-- 💬 Ask me about #### Anything in the world of programming, JavaScript mainly (I'm obsessed with it). 
+- ⚡ Fun fact **I hate playing 3d games (except it's educative) 😂. Brain games are my FAV**
 
-- 📫 How to reach me: 
-#### Email at ifedayoprince@gmail.com 
-#### WhatsApp at +2349039630470
-#### Facebook at Ifedayo Prince Oni. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ronald_kelechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ifedayo_prince" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ifedayoprince)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifedayoprince" alt="ifedayo prince" /></a></p>
 
-- 📖 My Skillset: 
-##### ReactJS
-##### Ionic Framework 
-##### Typescript
-##### Firebase 
-##### ExpressJS and NodeJS 
-##### ElectronJS
-##### Java etc. 
+<h3 align="left">Languages and Tools:</h3>
 
-- ⚡ Fun fact:
-#### I dislike sports, GTA and PlayStations 😂😂. It's weird but that's me. 
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldkelechi11&show_icons=true&locale=en&layout=compact" alt="ifedayo prince" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifedayoprince&show_icons=true&locale=en" alt="ifedayo prince" /></p>
