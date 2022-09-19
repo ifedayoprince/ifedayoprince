@@ -3,8 +3,7 @@
 My name if Ifedayo Prince Oni, 
 I'm an Hybrid App Developer. I develop cross platform apps and PWA. 
 I'm also a seasoned Ionic Developer 😛😛. 
-<!--
-**ifedayoprince/ifedayoprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on ...
 A quality video sharing platform called Qual. 
