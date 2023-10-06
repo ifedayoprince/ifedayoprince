@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Ifedayo Prince Oni</h1>
-<h3 align="center">I inspire people to "**Dare To Dream**"</h3>
+<h3 align="center">I inspire people to "<strong>Dare To Dream</strong>"</h3>
 
 - 🔭 I’m currently working on **Champ**
 
