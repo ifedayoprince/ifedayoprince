@@ -1,9 +1,16 @@
-# <h1 align="center">Hi 👋, I'm Ifedayo Prince Oni</h1>
+# <h1 align="center">Hi 👋, I'm Ifedayo Oni (AKA theDreamingTechie)</h1>
 <h3 align="center">I inspire people to "<strong>Dare To Dream</strong>"</h3>
+<h2>
+  10k people land on your site, but only 2k sign up.
+  2k sign up, but only 400 use it for 20 days.
+  Does any of these sound like problems you face?
+
+  I am Ifedayo Oni and I help SaaS companies engineer performant yet beautiful software that drive a 400% increase in customer retention.
+</h2>
 
 - 🔭 I’m currently working on **Vanya**
 
-- 🌱 I’m currently learning **Advanced Web Animations with ThreeJS**
+- 🌱 I’m currently learning **Content Creation**
 
 - 👯 I’m looking to collaborate with **ReactJS Developers**
 
@@ -18,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 1.2rem;">
 <p align="left">
-<a href="https://linkedin.com/in/ifedayoprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="ifedayo_prince" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ifedayoprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Ifedayo on LinkedIn" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/ifedayoprince_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifedayo_prince" height="30" width="40" /></a>
@@ -37,3 +44,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifedayoprince&show_icons=true&locale=en&layout=compact" alt="ifedayo prince" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifedayoprince&show_icons=true&locale=en" alt="ifedayo prince" /></p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ifedayoprince&theme=onedark&fire=22EB00&background=90%2C595300%2C6E2727&dates=37EB00)](https://git.io/streak-stats)
