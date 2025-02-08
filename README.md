@@ -1,12 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Ifedayo Oni (AKA theDreamingTechie)</h1>
-<h3 align="center">I inspire people to "<strong>Dare To Dream</strong>"</h3>
-<h2>
-  10k people land on your site, but only 2k sign up.
-  2k sign up, but only 400 use it for 20 days.
-  Does any of these sound like problems you face?
+## Edit: This README is not up-to-date. Please refer to my X profile to see what I'm up to. 
 
-  I am Ifedayo Oni and I help SaaS companies engineer performant yet beautiful software that drive a 400% increase in customer retention.
-</h2>
+<h3 align="center">I inspire people to "<strong>Dare To Dream</strong>"</h3>
 
 - 🔭 I’m currently working on **Vanya**
 
